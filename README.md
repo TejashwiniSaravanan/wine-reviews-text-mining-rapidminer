@@ -326,7 +326,7 @@ What could be improved:
 
 **Tejashwini Saravanan**
 
-📧 saravanant@spu.edu &nbsp;|&nbsp; 🎓 Master's Program - ISM6359 Data Mining
+📧 saravanant@spu.edu &nbsp;|&nbsp; 🎓 (MS) - Data Analytics in Business - ISM6359 Data Mining
 
 [![GitHub](https://img.shields.io/badge/GitHub-TejashwiniSaravanan-181717?style=flat-square&logo=github)](https://github.com/TejashwiniSaravanan)
 
