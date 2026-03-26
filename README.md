@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wine Reviews - Text Mining & Analysis
+# Wine Reviews — Text Mining & Analysis
 
 ### Uncovering patterns in 130,000+ wine reviews through data mining techniques
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-> A graduate-level text mining project applying **Correlation Analysis**, **Association Rule Mining**, and **K-Means Clustering** to a dataset of 130K+ wine reviews collected via Twitter - built entirely in RapidMiner Studio.
+> A graduate-level text mining project applying **Correlation Analysis**, **Association Rule Mining**, and **K-Means Clustering** to a dataset of 130K+ wine reviews collected via Twitter — built entirely in RapidMiner Studio.
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 ## Project Overview
 
-This project applies **text mining and data analysis techniques** to a large corpus of wine reviews collected via Twitter. The goal is to uncover hidden patterns in wine data - from how price relates to quality, to the most common grape blends and geographic clusters.
+This project applies **text mining and data analysis techniques** to a large corpus of wine reviews collected via Twitter. The goal is to uncover hidden patterns in wine data — from how price relates to quality, to the most common grape blends and geographic clusters.
 
 The analysis explores three core research questions:
 
@@ -164,7 +164,7 @@ A **Pearson Correlation Matrix** was computed between `points` and `price`.
 <div align="center">
 <img src="https://raw.githubusercontent.com/TejashwiniSaravanan/wine-reviews-text-mining-rapidminer/main/visualizations/correlation%20Matrix%20.png" width="250"/>
 <br/>
-<sub>Correlation matrix - points vs price</sub>
+<sub>Correlation matrix — points vs price</sub>
 </div>
 
 ---
@@ -178,7 +178,7 @@ A bell curve of wine prices for US wines shows a **near-normal distribution** ce
 <div align="center">
 <img src="https://raw.githubusercontent.com/TejashwiniSaravanan/wine-reviews-text-mining-rapidminer/main/visualizations/bell%20curve%20-%20plot%20.png" width="550"/>
 <br/>
-<sub>Price distribution bell curve - US wines</sub>
+<sub>Price distribution bell curve — US wines</sub>
 </div>
 
 ---
@@ -201,7 +201,7 @@ Comparing wine quality scores across US provinces:
 <div align="center">
 <img src="https://raw.githubusercontent.com/TejashwiniSaravanan/wine-reviews-text-mining-rapidminer/main/visualizations/box%20plot%20.png" width="600"/>
 <br/>
-<sub>Points distribution by province - box plot</sub>
+<sub>Points distribution by province — box plot</sub>
 </div>
 
 ---
@@ -245,14 +245,14 @@ The wine reviews were grouped into **5 distinct clusters** based on text descrip
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/TejashwiniSaravanan/wine-reviews-text-mining-rapidminer/main/visualizations/Data%20From%20Process%20.png" width="500"/>
 <br/>
-<sub>Cluster model output (left) - Clustered data from process (right)</sub>
+<sub>Cluster model output (left) — Clustered data from process (right)</sub>
 </div>
 
 ---
 
 ## Additional Visualizations
 
-### Histogram - Points Frequency by Taster
+### Histogram — Points Frequency by Taster
 
 Most reviews fall between **87–92 points**, with `@vboone` and `@mattkettmann` being the most prolific reviewers.
 
@@ -264,7 +264,7 @@ Most reviews fall between **87–92 points**, with `@vboone` and `@mattkettmann`
 
 <br/>
 
-### Scatter Plot - Winery Distribution by Region
+### Scatter Plot — Winery Distribution by Region
 
 Shows the geographic spread of wineries across regions, with Willamette Valley and California having the highest density.
 
@@ -292,7 +292,7 @@ Full attribute-level statistics including missing values, min/max, and distribut
 
 | Research Question | Finding |
 |-------------------|---------|
-| Price vs. Rating | Weakly correlated (r = 0.43) - price doesn't guarantee quality |
+| Price vs. Rating | Weakly correlated (r = 0.43) — price doesn't guarantee quality |
 | Best Province | **California** leads in average points among US provinces |
 | Most Common Grape Blend | **Bordeaux Blend** dominates association rules |
 | Wine Clusters | 5 clusters identified: Citrus, Fruity, Berry, Spice, Brand |
@@ -306,7 +306,7 @@ This analysis provides actionable insights for wine industry stakeholders:
 - **Aspiring vintners** can use the price-points correlation to position wines competitively without over-investing in premium pricing
 - **Association rules** reveal which grape combinations dominate the market, guiding vine selection decisions
 - **Cluster analysis** identifies distinct flavor profiles, enabling targeted marketing to different consumer segments
-- **Regional analysis** shows California and Oregon as top-performing provinces - ideal targets for sourcing premium grapes
+- **Regional analysis** shows California and Oregon as top-performing provinces — ideal targets for sourcing premium grapes
 
 ---
 
@@ -326,7 +326,7 @@ What could be improved:
 
 **Tejashwini Saravanan**
 
-📧 saravanant@spu.edu &nbsp;|&nbsp; 🎓 (MS) - Data Analytics in Business - ISM6359 Data Mining
+📧 saravanant@spu.edu &nbsp;|&nbsp; 🎓 Master's Program — ISM6359 Data Mining
 
 [![GitHub](https://img.shields.io/badge/GitHub-TejashwiniSaravanan-181717?style=flat-square&logo=github)](https://github.com/TejashwiniSaravanan)
 
@@ -343,4 +343,6 @@ This project was completed as part of academic coursework. The dataset is public
 <div align="center">
 <sub>Built with RapidMiner Studio &nbsp;|&nbsp; ISM6359 Data Mining &nbsp;|&nbsp; Master's Program</sub>
 </div>
+
+
 
