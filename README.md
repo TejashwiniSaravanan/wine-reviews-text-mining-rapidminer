@@ -159,8 +159,6 @@ A **Pearson Correlation Matrix** was computed between `points` and `price`.
 
 > **Finding:** Points and price show a **weak positive correlation (r = 0.43)**, meaning higher-rated wines tend to cost more, but price alone is not a strong predictor of quality.
 
-<br/>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/TejashwiniSaravanan/wine-reviews-text-mining-rapidminer/main/visualizations/correlation%20Matrix%20.png" width="250"/>
 <br/>
@@ -172,8 +170,6 @@ A **Pearson Correlation Matrix** was computed between `points` and `price`.
 ### Price Distribution
 
 A bell curve of wine prices for US wines shows a **near-normal distribution** centered around **$30–$40**, confirming that most wines fall in the affordable-to-mid range.
-
-<br/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/TejashwiniSaravanan/wine-reviews-text-mining-rapidminer/main/visualizations/bell%20curve%20-%20plot%20.png" width="550"/>
@@ -195,8 +191,6 @@ Comparing wine quality scores across US provinces:
 | New York | ~84 | Lower range |
 
 > **Finding:** **California** produces the highest-rated wines on average among US provinces.
-
-<br/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/TejashwiniSaravanan/wine-reviews-text-mining-rapidminer/main/visualizations/box%20plot%20.png" width="600"/>
@@ -238,8 +232,6 @@ The wine reviews were grouped into **5 distinct clusters** based on text descrip
 - Average within centroid distance: **-1.009**
 - Davies-Bouldin Index: **-12.444**
 
-<br/>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/TejashwiniSaravanan/wine-reviews-text-mining-rapidminer/main/visualizations/Cluster%20Model%20.png" width="200"/>
 &nbsp;&nbsp;&nbsp;
@@ -262,8 +254,6 @@ Most reviews fall between **87–92 points**, with `@vboone` and `@mattkettmann`
 <sub>Points frequency histogram by taster Twitter handle</sub>
 </div>
 
-<br/>
-
 ### Scatter Plot — Winery Distribution by Region
 
 Shows the geographic spread of wineries across regions, with Willamette Valley and California having the highest density.
@@ -273,8 +263,6 @@ Shows the geographic spread of wineries across regions, with Willamette Valley a
 <br/>
 <sub>Winery distribution across US wine regions</sub>
 </div>
-
-<br/>
 
 ### Dataset Statistics
 
@@ -324,7 +312,7 @@ What could be improved:
 
 <div align="center">
 
-**Tejashwini Saravanan**
+<h3>Tejashwini Saravanan</h3>
 
 📧 saravanant@spu.edu &nbsp;|&nbsp; 🎓 Master's Program — ISM6359 Data Mining
 
@@ -343,6 +331,3 @@ This project was completed as part of academic coursework. The dataset is public
 <div align="center">
 <sub>Built with RapidMiner Studio &nbsp;|&nbsp; ISM6359 Data Mining &nbsp;|&nbsp; Master's Program</sub>
 </div>
-
-
-
