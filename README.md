@@ -1,12 +1,12 @@
 <div align="center">
 
-# Wine Reviews — Text Mining & Analysis
+<h1>Wine Reviews — Text Mining & Analysis</h1>
 
-### Uncovering patterns in 130,000+ wine reviews through data mining techniques
+<h3>Uncovering patterns in 130,000+ wine reviews through data mining techniques</h3>
 
 <br/>
 
-[![RapidMiner](https://img.shields.io/badge/Tool-RapidMiner-FFD700?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=)](https://rapidminer.com/)
+[![RapidMiner](https://img.shields.io/badge/Tool-RapidMiner-FFD700?style=for-the-badge)](https://rapidminer.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/zynicide/wine-reviews)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)]()
@@ -14,7 +14,7 @@
 
 <br/>
 
-> A graduate-level text mining project applying **Correlation Analysis**, **Association Rule Mining**, and **K-Means Clustering** to a dataset of 130K+ wine reviews collected via Twitter — built entirely in RapidMiner Studio.
+<p>A graduate-level text mining project applying <strong>Correlation Analysis</strong>, <strong>Association Rule Mining</strong>, and <strong>K-Means Clustering</strong> to a dataset of 130K+ wine reviews collected via Twitter — built entirely in RapidMiner Studio.</p>
 
 <br/>
 
